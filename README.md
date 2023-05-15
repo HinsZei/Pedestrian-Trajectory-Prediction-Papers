@@ -6,11 +6,11 @@ Collect SOTA Pedestrian Trajectory Prediction Papers, and some related papers in
 
 Sorted by field, then conferences/journals:
 
-Trajectory Prediction 
+[Trajectory Prediction](#Trajectory-Prediction) 
 
-Intention Prediction
+[Intention Prediction](#Intention-Prediction)
 
-Behaviour Analysis/Prediction
+[Behaviour Prediction](#Behaviour-Prediction)
 
 ***
 
@@ -80,4 +80,10 @@ Behaviour Analysis/Prediction
 
 - Pedestrian Trajectory Prediction Combining Probabilistic Reasoning and Sequence Learning [[Paper]](https://ieeexplore.ieee.org/document/8957246)
 
-  
+
+
+## Intention Prediction
+
+
+
+## Behaviour Prediction

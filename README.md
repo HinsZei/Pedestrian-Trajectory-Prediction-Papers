@@ -26,7 +26,7 @@ Sorted by field, then conferences/journals:
 
 - (Intention)Pedestrian Stop and Go Forecasting with Hybrid Feature Fusion [[Paper]](https://ieeexplore.ieee.org/document/9811664) 
 
-  
+  <br/>
 
 *ICRL 2022(International Conference on Learning Representations):* [[Conference]](https://openreview.net/group?id=ICLR.cc/2022/Conference)
 
@@ -34,7 +34,7 @@ Sorted by field, then conferences/journals:
 
 - THOMAS: Trajectory Heatmap Output with learned Multi-Agent Sampling [[Paper]](https://openreview.net/pdf?id=Wm3EA5OlHsG)
 
-  
+  <br/>
 
 *CVPR(Computer Vision and Pattern Recognition Conference) 2022:* [[Conference]](https://cvpr2022.thecvf.com/)
 
@@ -52,7 +52,7 @@ Sorted by field, then conferences/journals:
 - Adaptive Trajectory Prediction via Transferable GNN [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Adaptive_Trajectory_Prediction_via_Transferable_GNN_CVPR_2022_paper.pdf)
 - Importance Is in Your Attention: Agent Importance Prediction for Autonomous Driving. [[Paper]](https://openaccess.thecvf.com/content/CVPR2022W/Precognition/papers/Hazard_Importance_Is_in_Your_Attention_Agent_Importance_Prediction_for_Autonomous_CVPRW_2022_paper.pdf)
 
-
+<br/>
 
 *IEEE Transactions on Intelligent Transportation Systems(2020-now):*  [[Journal]](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)
 
@@ -74,16 +74,16 @@ Sorted by field, then conferences/journals:
 - **Crossing or Not? Context-Based Recognition of Pedestrian Crossing Intention in the Urban Environment** [[Paper]](https://ieeexplore.ieee.org/document/9345505):
 - Spatiotemporal Relationship Reasoning for Pedestrian Intent Prediction [[Paper]](https://arxiv.org/pdf/2002.08945.pdf)
 
-
+<br/>
 
 *IEEE Transactions on Intelligent Vehicles(2020-now)*:  [[Journal]](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857)
 
 - Pedestrian Trajectory Prediction Combining Probabilistic Reasoning and Sequence Learning [[Paper]](https://ieeexplore.ieee.org/document/8957246)
 
-
+<br/>
 
 ## Intention Prediction
 
-
+<br/>
 
 ## Behaviour Prediction

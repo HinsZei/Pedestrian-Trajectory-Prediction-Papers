@@ -54,24 +54,29 @@ Sorted by field, then conferences/journals:
 
 <br/>
 
+*ECCV(European Conference on Computer Vision) 2022:* [[Conference]](https://www.ecva.net/papers.php)
+
+- **Learning Pedestrian Group Representations for Multi-modal Trajectory Prediction** [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136820263.pdf)
+- S2F2: Single-Stage Flow Forecasting for Future Multiple Trajectories Prediction  [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136820593.pdf)
+
 *IEEE Transactions on Intelligent Transportation Systems(2020-now):*  [[Journal]](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)
 
-- Pedestrian Models for Autonomous Driving Part II: High-Level Models of Human Behavior [[Survey]](https://ieeexplore.ieee.org/document/9151337):
+- Pedestrian Models for Autonomous Driving Part II: High-Level Models of Human Behavior [[Survey]](https://ieeexplore.ieee.org/document/9151337)
 - Review of Pedestrian Trajectory Prediction Methods: Comparing Deep Learning and Knowledge-Based Approaches [[Survey]](https://ieeexplore.ieee.org/document/9899358):
-- BR-GAN: A Pedestrian Trajectory Prediction Model Combined With Behaviour Recognition [[Paper]](https://ieeexplore.ieee.org/document/9851641):
+- BR-GAN: A Pedestrian Trajectory Prediction Model Combined With Behaviour Recognition [[Paper]](https://ieeexplore.ieee.org/document/9851641)
 - Pedestrian Motion Trajectory Prediction in Intelligent Driving from Far Shot First-Person Perspective Video [[Paper]](https://ieeexplore.ieee.org/document/9340008):
-- Holistic LSTM for Pedestrian Trajectory Prediction [[Paper]](https://ieeexplore.ieee.org/document/9361440):
-- **Pedestrian Graph +: A Fast Pedestrian Crossing Prediction Model Based on Graph Convolutional Networks** [[Paper]](https://ieeexplore.ieee.org/document/9774877): 
-- Causal Temporal–Spatial Pedestrian Trajectory Prediction With Goal Point Estimation and Contextual Interaction [[Paper]](https://ieeexplore.ieee.org/document/9896809): 
-- **Visual Exposes You: Pedestrian Trajectory Prediction Meets Visual Intention [[Paper]](https://ieeexplore.ieee.org/document/10103218):** 		
-- Pedestrian Path, Pose, and Intention Prediction Through Gaussian Process Dynamical Models and Pedestrian Activity Recognition [[Paper]](https://ieeexplore.ieee.org/document/8370119):
-- **Trajectory Forecasting Based on Prior-Aware Directed Graph Convolutional Neural Network** [[Paper]](https://ieeexplore.ieee.org/document/9686621):
-- Trajectory Prediction for Autonomous Driving Using Spatial-Temporal Graph Attention Transformer [[Paper]](https://ieeexplore.ieee.org/document/9768029):
-- Long-Short Term Spatio-Temporal Aggregation for Trajectory Prediction [[Paper]](https://ieeexplore.ieee.org/document/10018105):
+- Holistic LSTM for Pedestrian Trajectory Prediction [[Paper]](https://ieeexplore.ieee.org/document/9361440)
+- **Pedestrian Graph +: A Fast Pedestrian Crossing Prediction Model Based on Graph Convolutional Networks** [[Paper]](https://ieeexplore.ieee.org/document/9774877)
+- Causal Temporal–Spatial Pedestrian Trajectory Prediction With Goal Point Estimation and Contextual Interaction [[Paper]](https://ieeexplore.ieee.org/document/9896809)
+- **Visual Exposes You: Pedestrian Trajectory Prediction Meets Visual Intention** [[Paper]](https://ieeexplore.ieee.org/document/10103218)
+- Pedestrian Path, Pose, and Intention Prediction Through Gaussian Process Dynamical Models and Pedestrian Activity Recognition [[Paper]](https://ieeexplore.ieee.org/document/8370119)
+- **Trajectory Forecasting Based on Prior-Aware Directed Graph Convolutional Neural Network** [[Paper]](https://ieeexplore.ieee.org/document/9686621)
+- Trajectory Prediction for Autonomous Driving Using Spatial-Temporal Graph Attention Transformer [[Paper]](https://ieeexplore.ieee.org/document/9768029)
+- Long-Short Term Spatio-Temporal Aggregation for Trajectory Prediction [[Paper]](https://ieeexplore.ieee.org/document/10018105)
 - Fully Convolutional Encoder-Decoder With an Attention Mechanism for Practical Pedestrian Trajectory Prediction [[Paper]](https://ieeexplore.ieee.org/document/9768201)
-- Pedestrian Crossing Intention Prediction at Red-Light Using Pose Estimation [[Paper]](https://ieeexplore.ieee.org/document/9423518):
-- Human Trajectory Forecasting in Crowds: A Deep Learning Perspective [[Paper]](https://ieeexplore.ieee.org/document/9408398):
-- **Crossing or Not? Context-Based Recognition of Pedestrian Crossing Intention in the Urban Environment** [[Paper]](https://ieeexplore.ieee.org/document/9345505):
+- Pedestrian Crossing Intention Prediction at Red-Light Using Pose Estimation [[Paper]](https://ieeexplore.ieee.org/document/9423518)
+- Human Trajectory Forecasting in Crowds: A Deep Learning Perspective [[Paper]](https://ieeexplore.ieee.org/document/9408398)
+- **Crossing or Not? Context-Based Recognition of Pedestrian Crossing Intention in the Urban Environment** [[Paper]](https://ieeexplore.ieee.org/document/9345505)
 - Spatiotemporal Relationship Reasoning for Pedestrian Intent Prediction [[Paper]](https://arxiv.org/pdf/2002.08945.pdf)
 
 <br/>

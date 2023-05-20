@@ -57,7 +57,12 @@ Sorted by field, then conferences/journals:
 *ECCV(European Conference on Computer Vision) 2022:* [[Conference]](https://www.ecva.net/papers.php)
 
 - **Learning Pedestrian Group Representations for Multi-modal Trajectory Prediction** [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136820263.pdf)
-- S2F2: Single-Stage Flow Forecasting for Future Multiple Trajectories Prediction  [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136820593.pdf)
+- S2F2: Single-Stage Flow Forecasting for Future Multiple Trajectories Prediction [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136820593.pdf)
+- Hierarchical Latent Structure for Multi-Modal Vehicle Trajectory Forecasting  [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136820125.pdf)
+- **Action-based Contrastive Learning for Trajectory Prediction**  [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136990140.pdf)
+- Entry-Flipped Transformer for Inference and Prediction of Participant Behavior [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640433.pdf)
+- (Metric)Social-Implicit: Rethinking Trajectory Prediction Evaluation and The Effectiveness of Implicit Maximum Likelihood Estimation [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136820451.pdf)
+- Social-SSL: Self-Supervised Cross-Sequence Representation Learning Based on Transformers for Multi-Agent Trajectory Prediction [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136820227.pdf)
 
 *IEEE Transactions on Intelligent Transportation Systems(2020-now):*  [[Journal]](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)
 
@@ -92,3 +97,9 @@ Sorted by field, then conferences/journals:
 <br/>
 
 ## Behaviour Prediction
+
+*ECCV 2022:* [[Conference]](https://www.ecva.net/papers.php)
+
+- **Action-based Contrastive Learning for Trajectory Prediction**  [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136990140.pdf)
+- Entry-Flipped Transformer for Inference and Prediction of Participant Behavior [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640433.pdf)
+

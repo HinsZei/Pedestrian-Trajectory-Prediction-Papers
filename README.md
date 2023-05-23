@@ -16,6 +16,8 @@ Sorted by field, then conferences/journals:
 
 ## Trajectory Prediction
 
+<br/>
+
 *ICRA(International Conference on Robotics and Automation ) 2022*: [[Conference]](https://ieeexplore.ieee.org/xpl/conhome/9811522/proceeding)
 
 - Meta-path Analysis on Spatio-Temporal Graphs for Pedestrian Trajectory Prediction [[Paper]](https://ieeexplore.ieee.org/document/9811632)
@@ -23,8 +25,6 @@ Sorted by field, then conferences/journals:
 - **Crossmodal Transformer Based Generative Framework for Pedestrian Trajectory Prediction**  [[Paper]](https://ieeexplore.ieee.org/document/9812226)
 
 - Grouptron: Dynamic Multi-Scale Graph Convolutional Networks for Group-Aware Dense Crowd Trajectory Forecasting [[Paper]](https://ieeexplore.ieee.org/document/9811585) 
-
-  
 
   <br/>
 
@@ -57,6 +57,8 @@ Sorted by field, then conferences/journals:
 *ECCV(European Conference on Computer Vision) 2020:* [[Conference]](https://www.ecva.net/papers.php)
 
 - Spatio-Temporal Graph Transformer Networks for Pedestrian Trajectory Prediction [[Paper]](https://arxiv.org/pdf/2005.08514.pdf)
+
+  <br/>
 
 *ECCV(European Conference on Computer Vision) 2022:* [[Conference]](https://www.ecva.net/papers.php)
 
@@ -114,8 +116,6 @@ Sorted by field, then conferences/journals:
 
 ## Intention Prediction
 
-
-
 <br/>*IEEE Transactions on Human-Machine Systems*: [[Journal]](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221037)
 
 - Intent Prediction in Human–Human Interactions [[Paper]](https://ieeexplore.ieee.org/document/10037766)
@@ -124,25 +124,38 @@ Sorted by field, then conferences/journals:
 
 - Pedestrian Stop and Go Forecasting with Hybrid Feature Fusion [[Paper]](https://ieeexplore.ieee.org/document/9811664) 
 
+  <br/>
+
 *IEEE Transactions on Intelligent Transportation Systems(2020-now):*  [[Journal]](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)
 
 - **Crossing or Not? Context-Based Recognition of Pedestrian Crossing Intention in the Urban Environment** [[Paper]](https://ieeexplore.ieee.org/document/9345505)
+
 - Spatiotemporal Relationship Reasoning for Pedestrian Intent Prediction [[Paper]](https://arxiv.org/pdf/2002.08945.pdf)
+
 - Pedestrian Crossing Intention Prediction at Red-Light Using Pose Estimation [[Paper]](https://ieeexplore.ieee.org/document/9423518)
 
+  <br/>
+
 ## Behaviour/Pose Prediction
+
+<br/>
 
 *ECCV 2022:* [[Conference]](https://www.ecva.net/papers.php)
 
 - **Action-based Contrastive Learning for Trajectory Prediction**  [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136990140.pdf)
+
 - Entry-Flipped Transformer for Inference and Prediction of Participant Behaviour [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640433.pdf)
+
+  <br/>
 
 *IEEE Transactions on Intelligent Transportation Systems(2020-now):*  [[Journal]](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)
 
 - BR-GAN: A Pedestrian Trajectory Prediction Model Combined With Behaviour Recognition [[Paper]](https://ieeexplore.ieee.org/document/9851641)
+
 - Pedestrian Path, Pose, and Intention Prediction Through Gaussian Process Dynamical Models and Pedestrian Activity Recognition [[Paper]](https://ieeexplore.ieee.org/document/8370119)
+
+  <br/>
 
 *CoRL (Conference on Robot Learning) 2022* [[Conference]](https://proceedings.mlr.press/v205/): 
 
 - HUM3DIL: Semi-supervised Multi-modal 3D Human Pose Estimation for Autonomous Driving [[Paper]](https://arxiv.org/pdf/2212.07729.pdf)
-- 

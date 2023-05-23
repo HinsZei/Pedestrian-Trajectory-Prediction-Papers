@@ -38,4 +38,3 @@ $$
 4.  Experiments with 3 types of graphs using baseline models: GNN, GAT…
 
 **My thoughts(so far)**: In terms of dynamic size of groups, this paper utilised different tricks to solve it, compared to [GroupNet](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_GroupNet_Multiscale_Hypergraph_Neural_Networks_for_Trajectory_Prediction_With_Relational_CVPR_2022_paper.pdf). But the common idea is to make the size of groups trainable, one skipped the group index(non-differential parameter) and another employed attention mechanism(although it is for other purpose). For my own work, the difference between hypergraph and graph should be considered: graph is more generic. And the trick reducing nodes is good, but will it bring more bias logically? I need to run the code and look into details.
-

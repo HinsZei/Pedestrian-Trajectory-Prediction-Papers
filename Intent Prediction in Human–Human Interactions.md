@@ -8,7 +8,7 @@
 
 
 
-![Fig. 1.](https://media.springernature.com/full/springer-static/image/chp%3A10.1007%2F978-3-031-20047-2_16/MediaObjects/539987_1_En_16_Fig1_HTML.png)
+![Fig. 1.](C:\Users\lenovo\Desktop\539987_1_En_16_Fig1_HTML.png)
 
 ​	**Method:** 
 
@@ -31,9 +31,9 @@ $$
 
   3. Hierarchical Graphs: 
 
-     ![](https://inhwanbae.github.io/assets/img/gpgraph/gpgraph-hierarchy.svg)
+     
 
-
+![Image](https://inhwanbae.github.io/assets/img/gpgraph/gpgraph-hierarchy.svg)
 
 4.  Experiments with 3 types of graphs using baseline models: GNN, GAT…
 

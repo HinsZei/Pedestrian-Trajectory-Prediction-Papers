@@ -8,7 +8,7 @@ Sorted by field, then conferences/journals:
 
 ​	[Trajectory Prediction](#Trajectory-Prediction) 
 
-[	Intention Prediction](#Intention-Prediction)
+​	[Intention Prediction](#Intention-Prediction)
 
 ​	[Behaviour Prediction](#Behaviour-Prediction)
 
@@ -94,7 +94,7 @@ Sorted by field, then conferences/journals:
 
 - Pedestrian Models for Autonomous Driving Part II: High-Level Models of Human Behavior [[Survey]](https://ieeexplore.ieee.org/document/9151337)
 - Review of Pedestrian Trajectory Prediction Methods: Comparing Deep Learning and Knowledge-Based Approaches [[Survey]](https://ieeexplore.ieee.org/document/9899358):
-- BR-GAN: A Pedestrian Trajectory Prediction Model Combined With Behaviour Recognition [[Paper]](https://ieeexplore.ieee.org/document/9851641)
+- **BR-GAN: A Pedestrian Trajectory Prediction Model Combined With Behaviour Recognition** [[Paper]](https://ieeexplore.ieee.org/document/9851641)
 - Pedestrian Motion Trajectory Prediction in Intelligent Driving from Far Shot First-Person Perspective Video [[Paper]](https://ieeexplore.ieee.org/document/9340008):
 - Holistic LSTM for Pedestrian Trajectory Prediction [[Paper]](https://ieeexplore.ieee.org/document/9361440)
 - **Pedestrian Graph +: A Fast Pedestrian Crossing Prediction Model Based on Graph Convolutional Networks** [[Paper]](https://ieeexplore.ieee.org/document/9774877)
@@ -119,6 +119,8 @@ Sorted by field, then conferences/journals:
 <br/>*IEEE Transactions on Human-Machine Systems*: [[Journal]](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221037)
 
 - Intent Prediction in Human–Human Interactions [[Paper]](https://ieeexplore.ieee.org/document/10037766)
+
+  <br/>
 
 *ICRA 2022*: [[Conference]](https://ieeexplore.ieee.org/xpl/conhome/9811522/proceeding)
 
@@ -156,6 +158,14 @@ Sorted by field, then conferences/journals:
 
   <br/>
 
-*CoRL (Conference on Robot Learning) 2022* [[Conference]](https://proceedings.mlr.press/v205/): 
+*CoRL (Conference on Robot Learning) 2022:* [[Conference]](https://proceedings.mlr.press/v205/)
 
 - HUM3DIL: Semi-supervised Multi-modal 3D Human Pose Estimation for Autonomous Driving [[Paper]](https://arxiv.org/pdf/2212.07729.pdf)
+
+*IROS(Conference on Intelligent Robots and Systems) 2022:* [[Conference]](https://ieeexplore.ieee.org/xpl/conhome/9981026/proceeding)
+
+- **Pedestrian Intention Prediction Based on Traffic-Aware Scene Graph Model** [[Paper]](https://ieeexplore.ieee.org/abstract/document/9981690)
+
+*ACCV(Asian Conference on Computer Vision) 2022:* [[Conference]]([[Conference]](https://ieeexplore.ieee.org/xpl/conhome/9981026/proceeding))
+
+- Social Aware Multi-Modal Pedestrian Crossing Behaviour Prediction [[Paper]](https://openaccess.thecvf.com/content/ACCV2022/papers/Zhai_Social_Aware_Multi-Modal_Pedestrian_Crossing_Behavior_Prediction_ACCV_2022_paper.pdf)

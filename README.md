@@ -168,4 +168,5 @@ Sorted by field, then conferences/journals:
 
 *ACCV(Asian Conference on Computer Vision) 2022:* [[Conference]]([[Conference]](https://ieeexplore.ieee.org/xpl/conhome/9981026/proceeding))
 
-- Social Aware Multi-Modal Pedestrian Crossing Behaviour Prediction [[Paper]](https://openaccess.thecvf.com/content/ACCV2022/papers/Zhai_Social_Aware_Multi-Modal_Pedestrian_Crossing_Behavior_Prediction_ACCV_2022_paper.pdf)
+- **Social Aware Multi-Modal Pedestrian Crossing Behaviour Prediction** [[Paper]](https://openaccess.thecvf.com/content/ACCV2022/papers/Zhai_Social_Aware_Multi-Modal_Pedestrian_Crossing_Behavior_Prediction_ACCV_2022_paper.pdf)
+

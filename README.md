@@ -116,7 +116,14 @@ Sorted by field, then conferences/journals:
 
 ## Intention Prediction
 
-<br/>*IEEE Transactions on Human-Machine Systems*: [[Journal]](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221037)
+<br/>
+
+*WACV 2021*: [[Conference]](https://wacv2021.thecvf.com/home)
+
+- Benchmark for Evaluating Pedestrian Action Prediction [[Paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Kotseruba_Benchmark_for_Evaluating_Pedestrian_Action_Prediction_WACV_2021_paper.pdf)
+- 
+
+*IEEE Transactions on Human-Machine Systems*: [[Journal]](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221037)
 
 - Intent Prediction in Human–Human Interactions [[Paper]](https://ieeexplore.ieee.org/document/10037766)
 
@@ -169,4 +176,3 @@ Sorted by field, then conferences/journals:
 *ACCV(Asian Conference on Computer Vision) 2022:* [[Conference]]([[Conference]](https://ieeexplore.ieee.org/xpl/conhome/9981026/proceeding))
 
 - **Social Aware Multi-Modal Pedestrian Crossing Behaviour Prediction** [[Paper]](https://openaccess.thecvf.com/content/ACCV2022/papers/Zhai_Social_Aware_Multi-Modal_Pedestrian_Crossing_Behavior_Prediction_ACCV_2022_paper.pdf)
-

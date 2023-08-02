@@ -10,7 +10,7 @@ Links: [[Official Site]](https://data.nvision2.eecs.yorku.ca/JAAD_dataset/) [[Gi
 2. peds(bystanders): all other individual pedestrians in the scene.
 3. people: groups of pedestrians, where individual people are hard to distinguish.
 
-The dataset also provides demographic features,appearance(only in high-resolution video clips) for pedestrians, and context labels, driver reaction for vehicles.
+The dataset also provides demographic features, **appearance(only in high-resolution video clips)** for pedestrians, and context labels, driver reaction for vehicles.
 
 ![behavior.png](https://github.com/ykotseruba/JAAD/blob/JAAD_2.0/behavior.png?raw=true)
 

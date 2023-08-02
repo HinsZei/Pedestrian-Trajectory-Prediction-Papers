@@ -6,10 +6,6 @@
 
 ​	**Motivation/Problem**: Pioneering learning-based models share the group features at individual nodes in graphs(purple cross edges in the figure). This makes models hard to represent group features because of the overwhelming number of edges, especially in crowded scenarios.
 
-
-
-![Fig. 1.](C:\Users\lenovo\Desktop\539987_1_En_16_Fig1_HTML.png)
-
 ​	**Method:** 
 
  1. Group Assignment: measure the similarity among pedestrian pairs(L2 distance), and define a learnable thresholding parameter π to determine how close pedestrians will be considered as a group. For each group, the most representative  feature each pedestrian is selected via an **average pooling** then aggregated as the group trajectory feature. To assign features to each group member(unpooling), duplicate the group features and then assign them into nodes for all the relevant group members so that they have identical group behaviour information.

@@ -39,18 +39,15 @@ Sorted by field, then conferences/journals:
 *CVPR(Computer Vision and Pattern Recognition Conference) 2022:* [[Conference]](https://cvpr2022.thecvf.com/)
 
 - Stochastic Trajectory Prediction via Motion Indeterminacy Diffusion [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Gu_Stochastic_Trajectory_Prediction_via_Motion_Indeterminacy_Diffusion_CVPR_2022_paper.pdf)
-
 - Non-Probability Sampling Network for Stochastic Human Trajectory Prediction [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Bae_Non-Probability_Sampling_Network_for_Stochastic_Human_Trajectory_Prediction_CVPR_2022_paper.pdf)
-
 - Towards Robust and Adaptive Motion Forecasting: A Causal Representation Perspective [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Towards_Robust_and_Adaptive_Motion_Forecasting_A_Causal_Representation_Perspective_CVPR_2022_paper.pdf)
-
 - GroupNet: Multiscale Hypergraph Neural Networks for Trajectory Prediction with Relational Reasoning [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_GroupNet_Multiscale_Hypergraph_Neural_Networks_for_Trajectory_Prediction_With_Relational_CVPR_2022_paper.pdf)
-
 - How many Observations are Enough? Knowledge Distillation for Trajectory Forecasting [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Monti_How_Many_Observations_Are_Enough_Knowledge_Distillation_for_Trajectory_Forecasting_CVPR_2022_paper.pdf)
 - Human Trajectory Prediction with Momentary Observation [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Sun_Human_Trajectory_Prediction_With_Momentary_Observation_CVPR_2022_paper.pdf)
 - Remember Intentions: Retrospective-Memory-based Trajectory Prediction [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Remember_Intentions_Retrospective-Memory-Based_Trajectory_Prediction_CVPR_2022_paper.pdf)
 - Adaptive Trajectory Prediction via Transferable GNN [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Adaptive_Trajectory_Prediction_via_Transferable_GNN_CVPR_2022_paper.pdf)
 - Importance Is in Your Attention: Agent Importance Prediction for Autonomous Driving. [[Paper]](https://openaccess.thecvf.com/content/CVPR2022W/Precognition/papers/Hazard_Importance_Is_in_Your_Attention_Agent_Importance_Prediction_for_Autonomous_CVPRW_2022_paper.pdf)
+- Graph-based Spatial Transformer with Memory Replay for Multi-future Pedestrian Trajectory Prediction [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Graph-Based_Spatial_Transformer_With_Memory_Replay_for_Multi-Future_Pedestrian_Trajectory_CVPR_2022_paper.pdf)
 
 <br/>
 
@@ -121,7 +118,6 @@ Sorted by field, then conferences/journals:
 *WACV 2021*: [[Conference]](https://wacv2021.thecvf.com/home)
 
 - Benchmark for Evaluating Pedestrian Action Prediction [[Paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Kotseruba_Benchmark_for_Evaluating_Pedestrian_Action_Prediction_WACV_2021_paper.pdf)
-- 
 
 *IEEE Transactions on Human-Machine Systems*: [[Journal]](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221037)
 
@@ -133,7 +129,11 @@ Sorted by field, then conferences/journals:
 
 - Pedestrian Stop and Go Forecasting with Hybrid Feature Fusion [[Paper]](https://ieeexplore.ieee.org/document/9811664) 
 
-  <br/>
+<br/>
+
+*ICRA 2021:*
+
+- **Graph-SIM: A Graph-based Spatiotemporal Interaction Modelling for Pedestrian Action Prediction [[Paper]](https://arxiv.org/abs/2012.02148)**
 
 *IEEE Transactions on Intelligent Transportation Systems(2020-now):*  [[Journal]](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)
 
@@ -145,7 +145,15 @@ Sorted by field, then conferences/journals:
 
   <br/>
 
-## Behaviour/Pose Prediction
+*Arxiv:*
+
+- PedFormer: Pedestrian Behaviour Prediction via Cross-Modal Attention Modulation and Gated Multitask Learning [[Paper]](https://arxiv.org/pdf/2210.07886.pdf)
+
+## Behaviour/Pose Estimation
+
+*CVPR 2023：*
+
+- **Trajectory-Aware Body Interaction Transformer for Multi-Person Pose Forecasting**  [[Paper]](https://arxiv.org/pdf/2303.05095.pdf)
 
 <br/>
 
@@ -159,7 +167,7 @@ Sorted by field, then conferences/journals:
 
 *IEEE Transactions on Intelligent Transportation Systems(2020-now):*  [[Journal]](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)
 
-- BR-GAN: A Pedestrian Trajectory Prediction Model Combined With Behaviour Recognition [[Paper]](https://ieeexplore.ieee.org/document/9851641)
+- **BR-GAN: A Pedestrian Trajectory Prediction Model Combined With Behaviour Recognition [[Paper]](https://ieeexplore.ieee.org/document/9851641)**
 
 - Pedestrian Path, Pose, and Intention Prediction Through Gaussian Process Dynamical Models and Pedestrian Activity Recognition [[Paper]](https://ieeexplore.ieee.org/document/8370119)
 
@@ -176,3 +184,4 @@ Sorted by field, then conferences/journals:
 *ACCV(Asian Conference on Computer Vision) 2022:* [[Conference]]([[Conference]](https://ieeexplore.ieee.org/xpl/conhome/9981026/proceeding))
 
 - **Social Aware Multi-Modal Pedestrian Crossing Behaviour Prediction** [[Paper]](https://openaccess.thecvf.com/content/ACCV2022/papers/Zhai_Social_Aware_Multi-Modal_Pedestrian_Crossing_Behavior_Prediction_ACCV_2022_paper.pdf)
+

@@ -19,11 +19,11 @@ Other types of objects have binary occlusion labels: 0 (fully visible) or 1 (par
 Depending on the type of object additional information is provided for each bounding box (where applicable):
 
 - pedestrian - textual labels for actions, gestures, looking, or crossing
-  - Action: Whether the pedestrian is `walking` or `standing`
-  - Gesture: The type of gestures exhibited by the pedestrian. The gestures include
-    `hand_ack` (pedestrian is acknowledging by hand gesture),`hand_yield` (pedestrian is yielding by hand gesture), `hand_rightofway` (pedestrian is giving right of way by hand gesture), `nod`, or `other`.
-  - Look: Whether pedestrian is `looking` or `not-looking` in the direction of the ego-vehicle.
-  - Cross: Whether pedestrian is `not-crossing`, `crossing` the path of the ego-vehicle and `crossing-irrelevant` which indicates that the pedestrian is crossing the road but not in the path of the ego-vehicle.
+  - **Action: Whether the pedestrian is `walking` or `standing`**(before crossing)
+  - **(Hand) Gesture: The type of gestures exhibited by the pedestrian. The gestures include**
+    **`hand_ack` (pedestrian is acknowledging by hand gesture),`hand_yield` (pedestrian is yielding by hand gesture), `hand_rightofway` (pedestrian is giving right of way by hand gesture), `nod`, or `other`.**
+  - **Look: Whether pedestrian is `looking` or `not-looking` in the direction of the ego-vehicle.(Attention)**
+  - **Cross: Whether pedestrian is `not-crossing`, `crossing` the path of the ego-vehicle and `crossing-irrelevant` which indicates that the pedestrian is crossing the road but not in the path of the ego-vehicle.**
 - vehicle
   - Type: The type of vehicle. The options are `car`, `truck`, `bus`, `train`, `bicycle` and `bike`.
 - traffic_light
@@ -48,15 +48,15 @@ These include information regarding pedestrians' demographics, crossing point, c
 - signalized: Indicates whether the crosswalk is signalized. Options are `n/a` (no signal, no crosswalk), `C` (crosswalk lines or pedestrian crossing sign), `S` (signal or stop sign) and `CS` (crosswalk or crossing sign combined with traffic lights or stop sign).
 - traffic_direction: `OW` (one-way) or `TW` (two-way).
 - intersection: Specifies the type of intersection: `midblock`, `T`, `T-right`, `T-left`, `four-way`.
-- crossing: `1` (crossing), `0` (not crossing), `-1` (irrelevant). This indicates whether the pedestrian was observed crossing the road in front of the ego-vehicle. Irrelevant pedestrians are those judged as not intending to cross but standing close to the road, e.g. waiting for a bus or hailing a taxi.
+- **crossing: `1` (crossing), `0` (not crossing), `-1` (irrelevant). This indicates whether the pedestrian was observed crossing the road in front of the ego-vehicle. Irrelevant pedestrians are those judged as not intending to cross but standing close to the road, e.g. waiting for a bus or hailing a taxi.**
 - exp_start_point: The starting frame of the clip used for human experiment (see the paper for details)
 - critical_point: The last frame of the clip used for human experiment
-- intention_prob: A value in range `[0,1]` indicating the average human responses for the pedestrian's intention. This value is estimated intention of a given pedestrian to cross *prior to the critical point*. Therefore, there is a *single intention estimate per each pedestrian track*.
-- crossing_point: The frame at which the pedestrian starts crossing. In the cases where the pedestrians do not cross the road, the last frame - 3 is selected.
+- **intention_prob: A value in range `[0,1]` indicating the average human responses for the pedestrian's intention. This value is estimated intention of a given pedestrian to cross *prior to the critical point*. Therefore, there is a *single intention estimate per each pedestrian track*.**
+- **crossing_point: The frame at which the pedestrian starts crossing. In the cases where the pedestrians do not cross the road, the last frame - 3 is selected.**
 
 **Note regarding action/intention distinction**: In the PIE dataset we distinguish between intention to cross and crossing action. We consider intention as a mental state that precedes the action but does not necessarily cause the action immediately, e.g. if it is dangerous to do so. In the case of crossing the road this leads to three possible scenarios:
 
-- Pedestrian intends (wants) to cross and crosses because the conditions are favorable (e.g. green light for pedestrian or the ego-vehicle yields);
+- Pedestrian intends (wants) to cross and crosses because the conditions are favourable (e.g. green light for pedestrian or the ego-vehicle yields);
 - Pedestrian intends to cross but cannot cross since the conditions prevent them from doing so (e.g. red light, being blocked by other pedestrians or vehicles not yielding);
 - Pedestrian does not intend to cross (e.g. is talking to another person or waiting for a bus at the bus station) and therefore does not cross.
 
